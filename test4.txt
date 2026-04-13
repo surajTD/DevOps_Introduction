@@ -1,0 +1,3 @@
+Test the Git diff commant
+Hello
+New line adding
