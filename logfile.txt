@@ -1,0 +1,29 @@
+commit 205106bfb0e9937f5385fdddb8459c6e06687de0
+Author: Suraj <surajgowda357@gmail.com>
+Date:   Mon Apr 13 06:12:46 2026 +0530
+
+    pushing all the latest changes
+
+commit 502f8e6ef6cc799a692b116c0922e359bfafa794
+Author: Suraj <surajgowda357@gmail.com>
+Date:   Fri Apr 10 06:57:57 2026 +0530
+
+    adding the files which are practiced for git Stash
+
+commit de290b944decddb5ac5939d2f6026fd11c31a907
+Author: surajTD <80663101+surajTD@users.noreply.github.com>
+Date:   Tue Apr 7 07:12:58 2026 +0530
+
+    Create from_remote.txt with initial content
+
+commit b32f2b5e8f4936924d7c5bc2822284d8b97a1aef
+Author: Suraj <surajgowda357@gmail.com>
+Date:   Tue Apr 7 07:00:05 2026 +0530
+
+    Created testing files
+
+commit 6dc9f021f0819f49a675700a27256eef7acef20d
+Author: surajTD <80663101+surajTD@users.noreply.github.com>
+Date:   Tue Apr 7 06:13:47 2026 +0530
+
+    Initial commit
